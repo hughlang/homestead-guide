@@ -8,7 +8,7 @@ Viktor Trón
 
 Hudson Jameson
 
-HughLang
+Hugh Lang
 
 Taylor Gerring
 
